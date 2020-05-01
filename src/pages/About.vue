@@ -1,7 +1,9 @@
 <template>
   <Layout>
-    <h1>About us</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
+    <h1>APTA</h1>
+    <p>We serve our members and the physical therapy community by promoting the development, application and advancement of cardiovascular and pulmonary physical therapy practice, education and research
+
+</p>
   </Layout>
 </template>
 
